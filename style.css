@@ -350,3 +350,33 @@ body {
 .contact-form .w-100{
     width: 100%;
 } 
+
+
+/* =====================================
+               #footer section  css
+ =======================================*/
+ .footer {
+    background: #6d6d6d;
+    padding: 50px 0;
+}
+ .footer-section {
+    color: #fff;
+}
+ .footer-section .footer-text{}
+ .footer-section p {
+    font-size: 18px;
+}
+ .footer-icon{}
+ .footer-icon .social-ul{
+     text-align: right;
+ }
+ .footer-icon .social-li {
+    display: inline-block;
+    margin-left: -5px;
+}
+.footer-icon .social-a {
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    padding: 0 14px;
+}
