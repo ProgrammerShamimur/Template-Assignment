@@ -59,15 +59,16 @@ body {
     z-index: -1;
     background: rgba(0, 0, 0, .6);
 }
-.header-main{
-    background: rgba(0, 0, 0, .7);
+.header-main {
+    background: rgba(0, 0, 0, .3);
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
 }
-.header-logo{
+.header-logo {
     width: 35%;
+    margin-top: 5px;
 }
 .header-logo img{}
 .header-menu{
@@ -87,7 +88,7 @@ body {
     font-size: 15px;
     transition: .4s;
     position: relative;
-    padding: 0 20px;
+    padding: 13px 20px;
 }
 .menu-a::after {
     content: "";
